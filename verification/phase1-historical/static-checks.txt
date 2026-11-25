@@ -1,0 +1,2 @@
+PASS: version 4 to 5 SQL migration on host SQLite: transaction and queue fixture preserved, new ignored_sms schema created.
+PASS: 10 Android XML files well formed.

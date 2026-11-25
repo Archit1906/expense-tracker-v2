@@ -1,0 +1,4 @@
+PASS: all 21 migration SQL statements executed on SQLite fixture
+PASS: IDs, transaction hashes, transfer flag, queued credit, negative balance, ignored SMS including null amount, merchant rule preserved
+PASS: new tables created empty, SQLite integrity_check ok, duplicate hash rejected
+Room-generated schema validation still requires Android instrumented test.
